@@ -1,0 +1,10 @@
+[web]
+node1
+node2
+
+[database]
+node3
+
+[nodes:children]
+web
+database
